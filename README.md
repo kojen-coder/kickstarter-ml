@@ -12,5 +12,5 @@ Kickstarter has revolutionized the way ideas get funded and become reality. Howe
 
 <h4>II. Clustering Model</h4>
 Our goal was meticulously designed to dissect and understand the intricate array of attributes that characterize the diverse spectrum of projects on Kickstarter. By analyzing successful and failed Kickstarter projects, I refined our clustering approach and improved the silhouette score from 0.06 to 0.24. I used K-means to identify five distinct clusters and applied PCA and t-SNE for visualization, integrating our findings back into the original dataset for deeper insight. 
-For an in-depth look at the defining features and insights of each cluster, check out our detailed report. 
+For an in-depth look at the defining features and insights of each cluster, check out our detailed report: https://github.com/kojen-coder/kickstarter-ml/blob/main/Cluster%20Model%20Report.pdf
 
