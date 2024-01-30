@@ -1,5 +1,4 @@
 <h1>Kickstarter Project Success Predictor</h1>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kickstarter_logo.svg/1024px-Kickstarter_logo.svg.png" alt="Kickstarter logo" width="600" height="75">
 <p>This repository contains a machine learning initiative designed to enhance the decision-making process for both project creators and backers on Kickstarter, the world's largest crowdfunding platform.</p>
 <h3>Project Overview</h3>
 Kickstarter has revolutionized the way ideas get funded and become reality. However, the success of a project on Kickstarter can be influenced by a multitude of factors. Recognizing this, I have embarked on developing two types of machine learning models: a classification model to predict the success or failure of projects at launch, and a clustering model to group similar projects to gain further insights.
